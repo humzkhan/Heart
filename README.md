@@ -1,3 +1,3 @@
 # Heart
 
-This is my machine learning heart disease prediction algorithm 
+This is my machine learning heart disease prediction algorithm.
